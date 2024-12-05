@@ -1,4 +1,4 @@
-### study-of-basic-gates
+# EXP1:STUDY OF BASIC DIGITAL IC'S AND VERIFICATION OF TRUTH TABLES FOR DIFFERENT LOGIC GATES,REALIZATION USING VERILOG
 
 **AIM:** 
 
@@ -66,14 +66,23 @@ Y= A⊕B
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by: RegisterNumber: 
+![exp1 code](https://github.com/user-attachments/assets/35b49ab3-edf4-420b-837f-f99741c0c1fc)
+
  
 **Logic symbol & Truthtable**
 
+![truthtable](https://github.com/user-attachments/assets/1d605334-b534-4d7e-8d22-d8de2a4e8b17)
+
+
 **RTL realization Output:** 
 
-**RTL**
+![diagram](https://github.com/user-attachments/assets/ffdf7324-87d5-4bd1-ab9e-90d1cc6027d5)
+
+
+**OUTPUT**
+
+![exp1 waveform](https://github.com/user-attachments/assets/d0a0ef64-6848-46c6-84cc-bd3511bdd430)
 
 **Result:**
 
-
+Thus the differntial digital IC'S are studied and the truth for different logic gates are verified.
